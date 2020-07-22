@@ -1,3 +1,4 @@
 chleb	3.5
 jajka	9.0
 maslo	5.5
+ryz 	3.2
